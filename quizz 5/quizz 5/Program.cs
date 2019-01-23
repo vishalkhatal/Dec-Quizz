@@ -8,6 +8,7 @@ namespace quizz_5
 {
     class Program
     {
+        // Find the result of compare operation
         static void Main(string[] args)
         {
             string a = "VISHAL";

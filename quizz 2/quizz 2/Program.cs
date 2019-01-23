@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace quizz_2
 {
+    // find value of _index variable
     class Program
     {
         static void Main(string[] args)

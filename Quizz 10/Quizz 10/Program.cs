@@ -8,6 +8,7 @@ namespace Quizz_10
 {
     class Program
     {
+        //Find the output
         static void Main(string[] args)
         {
             byte num = 100;

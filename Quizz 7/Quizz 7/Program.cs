@@ -8,6 +8,7 @@ namespace Quizz_7
 {
     class Program
     {
+        // Find the output
         static void Main(string[] args)
         {
             DateTime date = new DateTime();
